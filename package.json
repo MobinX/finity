@@ -13,6 +13,7 @@
     "animate.css": "^4.1.1",
     "aos": "^2.3.4",
     "compress-images": "^2.0.4",
+    "daisyui": "^1.24.3",
     "gifsicle": "5.2.1",
     "next": "12.0.4",
     "next-pwa": "^5.4.1",
